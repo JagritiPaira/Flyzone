@@ -1,0 +1,28 @@
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="#0C3A63"
+    android:orientation="vertical"
+    android:id="@+id/er"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="InvalidId">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="250dp"
+        android:drawableStart="@drawable/ic_baseline_shopping_basket_24"
+        android:drawableLeft="@drawable/ic_baseline_shopping_basket_24"
+        android:fontFamily="@font/sonsie_one"
+        android:text="FLYZONE"
+        android:textColor="#EDEDE1"
+        android:textSize="40dp"></TextView>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:src="@drawable/ert"
+        android:layout_marginTop="20dp"
+        android:layout_height="200dp"></ImageView>
+
+</LinearLayout>

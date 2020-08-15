@@ -1,0 +1,41 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="#133E63"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="#094377"
+        android:orientation="horizontal"
+        android:layout_height="40dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:drawableLeft="@drawable/ic_baseline_menu_24"
+            android:drawableStart="@drawable/ic_baseline_menu_24"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="20dp"></TextView>
+
+        <EditText
+            android:layout_width="200dp"
+            android:drawableStart="@drawable/ic_baseline_search_24"
+            android:drawableLeft="@drawable/ic_baseline_search_24"
+            android:layout_marginLeft="50dp"
+            android:hint="Search products"
+            android:textColorHint="#F4F4ED"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/search"
+            android:layout_height="20dp"></EditText>
+        <TextView
+            android:layout_width="wrap_content"
+            android:drawableRight="@drawable/ic_baseline_shopping_cart_24"
+            android:drawableEnd="@drawable/ic_baseline_shopping_cart_24"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="5dp"
+            android:layout_height="wrap_content"></TextView>
+
+
+    </LinearLayout>
+</LinearLayout>

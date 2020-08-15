@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "524921107630",
+    "firebase_url": "https://flyzone-efb5c.firebaseio.com",
+    "project_id": "flyzone-efb5c",
+    "storage_bucket": "flyzone-efb5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524921107630:android:c58ccb4765574b12a9293f",
+        "android_client_info": {
+          "package_name": "com.example.flyzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524921107630-kciqir01r7mjs1cgee2i5u510hph04et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flyzone",
+            "certificate_hash": "aa96a20a393ac6eb46d9b0b2e6e338672a5094c0"
+          }
+        },
+        {
+          "client_id": "524921107630-6tt3cjf14v0iene2aaq65krh8mc6q979.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeIuxsTxL1dVDRLziKzsGtMjyt5dew_ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524921107630-6tt3cjf14v0iene2aaq65krh8mc6q979.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
